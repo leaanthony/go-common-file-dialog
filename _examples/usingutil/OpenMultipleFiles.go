@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/harry1453/go-common-file-dialog/cfd"
-	"github.com/harry1453/go-common-file-dialog/cfdutil"
+	"github.com/leaanthony/go-common-file-dialog/cfd"
+	"github.com/leaanthony/go-common-file-dialog/cfdutil"
 	"log"
 )
 

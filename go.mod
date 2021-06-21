@@ -1,4 +1,4 @@
-module github.com/harry1453/go-common-file-dialog
+module github.com/leaanthony/go-common-file-dialog
 
 go 1.13
 
